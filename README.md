@@ -3,9 +3,9 @@
 Aplicação de gerenciamento de tarefas, com funcionalidade de reordenar as tarefas
 por meio de arrastar e soltar.
 
-## Instalação
+## Instalação / Rodar a aplicação
 
-Clone o projeto `compare-games-frontend` e no terminal rode os seguintes comandos:
+Clone o projeto `i4sea-desafio` e no terminal rode os seguintes comandos:
 
 ```bash
   yarn //instalar dependências
