@@ -15,7 +15,7 @@ Clone o projeto `compare-games-frontend` e no terminal rode os seguintes comando
 
 ## Stack Utilizada
 
-- [Vite]([https://nextjs.org/blog/next-13-4](https://vitejs.dev/)
+- [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
 - [JSON Server](https://www.npmjs.com/package/json-server)
